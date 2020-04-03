@@ -1,4 +1,11 @@
 /**
+ * 
+ * Written by Sukhrobbek Ilyosbekov
+ * Source code available in https://github.com/suxrobGM/JavaCourseworkAssignments
+ * 
+ **/
+
+/**
  * TestRound
  */
 public class TestRound {

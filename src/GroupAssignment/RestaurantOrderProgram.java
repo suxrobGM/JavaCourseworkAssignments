@@ -1,3 +1,9 @@
+/**
+ * 
+ * Written by Sukhrobbek Ilyosbekov
+ * Source code available in https://github.com/suxrobGM/JavaCourseworkAssignments
+ * 
+ **/
 import java.util.ArrayList;
 import java.util.Scanner;
 
